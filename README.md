@@ -1,13 +1,13 @@
 # CS300 simple shell - cshell
 
-Assignment Goals
+## Assignment Goals
 To understand the relationship between OS command interpreters (shells), system calls, and the kernel.
 To design and implement an extremely simple shell and system call (Bonus).
 
 For this assignment, you should understand the concepts of environment variables, system calls, standard input and output, I/O redirection, parent and child processes, current directory, pipes, jobs, foreground and background, signals, and end-of-file.
 
 
-We can summarize the structure of the shell as follows:
+## We can summarize the structure of the shell as follows:
 
 1.print out a prompt
 
