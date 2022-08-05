@@ -1,5 +1,4 @@
-# CS300
-simple shell - cshell
+# CS300 simple shell - cshell
 
 Assignment Goals
 To understand the relationship between OS command interpreters (shells), system calls, and the kernel.
