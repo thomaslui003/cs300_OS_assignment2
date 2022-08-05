@@ -1,6 +1,4 @@
-��#� �c�s�3�0�0�_�O�S�
-�
-�
+***CS300
 Our new shell - cshell
 
 Assignment Goals
