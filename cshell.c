@@ -1,4 +1,4 @@
-//Assignment 2 cshell
+//project 2 cshell
 //github name: thomaslui003
 
 
