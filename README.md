@@ -16,8 +16,8 @@ For this assignment, you should understand the concepts of environment variables
 3. Parse the line into the program name, and an array of parameters
 4. Use the fork() system call to spawn a new child process
 
-    a.the child process then uses the exec() system call to launch the specified program
+    a. The child process then uses the exec() system call to launch the specified program
   
-    b.the parent process (the shell) uses the wait() system call to wait for the child to terminate
+    b. The parent process (the shell) uses the wait() system call to wait for the child to terminate
   
 5. When the child process(i.e. the launched program) finishes, the shell repeats the loop by jumping to 1.
