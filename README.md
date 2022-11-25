@@ -1,4 +1,4 @@
-# CS300 simple shell - cshell
+# CMPT300 simple shell - cshell
 
 ## Project Goals
 To understand the relationship between OS command interpreters (shells), system calls, and the kernel.
